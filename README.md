@@ -1,4 +1,4 @@
-![it's me](me.gif)
+![it's me](https://raw.githubusercontent.com/ozkozturk/ozkozturk/master/me.gif)
 
 <!--
 **ozkozturk/ozkozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
